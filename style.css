@@ -1,0 +1,34 @@
+.jumbotron img {
+    border: 5px solid gray;
+}
+
+hr {
+    width: 200px;
+    border-top: 4px solid #990;
+}
+
+section {
+    min-height: 500px;
+}
+
+.jumbotron, .portfolio {
+    background-color: #eee;
+}
+
+.col img {
+    border-radius: 10px;
+}
+
+label {
+    width: 450px;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.jumbotron#home {
+    margin-top: 50px;
+}
